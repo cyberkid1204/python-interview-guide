@@ -2101,3 +2101,4 @@ appendfsync no  # 完全依赖操作系统，效率最佳，效果没法保证
 * [优质 Python 播客推荐](https://mp.weixin.qq.com/s?__biz=MzUyOTk2MTcwNg==&mid=2247484132&idx=1&sn=fd88c8c3b993eedb2f5b0b62052476f2&chksm=fa584561cd2fcc777f2c4a268a0dc56bf2df1cdd5242d124ba50285b56e1d37834b620006cdb&mpshare=1&scene=1&srcid=#rd)
 * [PYCON CHINA 2019](https://cn.pycon.org/)
 * [JetBrains IDE 基本快捷键](https://nextfe.com/jetbrains-ide-shortcuts/)
+To Be Continued
